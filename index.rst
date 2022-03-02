@@ -20,6 +20,8 @@ The project is hosted on Github by ROS Sports. Issues and Pull Requests are welc
    :hidden:
    :maxdepth: 2
 
+   background
+   vision
    project-list
 
 .. _Github: https://github.com/ros-sports
