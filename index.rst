@@ -3,18 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ROS Sports's documentation!
-======================================
+Welcome to ROS Sports
+=====================
+
+ROS Sports is an organization that attempts to provide
+
+All repositories are hosted on `Github`_.
+
+We're happy you're here!
+************************
+
+The project is hosted on Github by ROS Sports. Issues and Pull Requests are welcome!
+
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
-   :caption: Contents:
 
+   project-list
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _Github: https://github.com/ros-sports
