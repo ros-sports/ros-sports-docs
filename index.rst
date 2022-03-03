@@ -13,8 +13,6 @@ also closely works with teams that participate in robotics sports competitions.
 We're happy you're here!
 ************************
 
-The project is hosted on Github by ROS Sports. Issues and Pull Requests are welcome!
-
 
 .. toctree::
    :hidden:
