@@ -1,9 +1,10 @@
 Project List
 ############
 
+Below are a list of projects that are developed and maintained by the community that share the same
+spirit as ROS Sports.
+
 **Thanks to all maintainers who make their packages available to the community!**
-Below is a list of projects that are developed and maintained by those that share the same
-vision as ROS Sports.
 
 `Rcss3d Agent`_
 ***************
