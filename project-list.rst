@@ -18,10 +18,17 @@ RoboCup 3D Simulation League.
 Provides an interface to the RoboCup 3D Simulator SimSpark that closely matches
 a Softbank Nao robot interface.
 
-.. tip::
+`RQt Image Overlay`_
+********************
+
+RQt Image Overlay is an RQt plugin that lets you easily draw information from topics onto a camera
+image and view them in RQt.
+
+.. attention::
   **Let us add your work to the list!** Add your project to the list which is in
   alphabetical order and open a Github Pull Request.
 
-.. _Rcss3d Agent: https://rcss3d-agent.readthedocs.io/en/latest/
-.. _Rcss3d Nao: https://rcss3d-nao.readthedocs.io/en/latest/
+.. _Rcss3d Agent: https://rcss3d-agent.readthedocs.io/
+.. _Rcss3d Nao: https://rcss3d-nao.readthedocs.io/
+.. _RQt Image Overlay: https://rqt-image-overlay.readthedocs.io/
 
