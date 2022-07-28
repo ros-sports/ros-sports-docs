@@ -10,6 +10,9 @@ ROS Sports is an organization that **encourages open source collaboration in rob
 The organization develops and maintains a range of open source ROS libraries on `Github`_, but
 also closely works with teams that participate in robotics sports competitions.
 
+Following organizations use libraries from ROS Sports:
+
+.. include:: _users.rst
 
 .. toctree::
    :hidden:
