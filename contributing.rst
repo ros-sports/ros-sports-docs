@@ -1,6 +1,8 @@
 Contributing
 ############
 
+.. image:: images/contributing.png
+
 ROS Sports is community-maintained, where most maintainers are volunteers.
 **Please respect the maintainers who dedicate their time to improving robotics**.
 

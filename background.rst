@@ -1,7 +1,8 @@
 Background
 ##########
 
-Robotic sports competitions, such as `RoboCup`_, encourage research and development of cutting-edge technology.
+.. image:: images/crowd.png
+
 Robotics competitions tend to start off with rapid innovation, but after a couple of years, development seems to "slow down".
 One reason for this is the way research output is shared.
 
