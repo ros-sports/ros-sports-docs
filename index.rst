@@ -22,6 +22,7 @@ works closely with teams that participate in robotics sports competitions.
    contributing
    collaborators
    project-list
+   meetings
    contact
 
 .. _Github: https://github.com/ros-sports
