@@ -67,12 +67,6 @@ Projects and corresponding documentation are maintained by ROS Sports maintainer
 If you have made major contributions to a project, existing maintainers may reach out to you
 to request becoming a maintainer.
 
-.. note::
-
-  Please do not contact the organization about becoming a maintainer of an existing project,
-  unless the repository you are willing to maintain is currently unmaintained.
-
-
 Writing Documentation
 =====================
 
