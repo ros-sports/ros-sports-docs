@@ -100,8 +100,8 @@ existing code, and submit a fix in the same PR.
 Copyright Notices
 =================
 
-ROS Sports will not own your project, in the way a company owns code written by their employees.
-The copyright notice should appear with your name or your organization name.
+ROS Sports will not own your project, ownership of code will remain with respective authors.
+The copyright notice should appear with your name or your organization's name.
 
 Releasing into ROS ecosystem
 ============================
