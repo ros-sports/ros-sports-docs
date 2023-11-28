@@ -46,7 +46,7 @@ Handles the network connection and parsing/packing of data with the SimSpark sim
 *************
 
 Provides an interface to the RoboCup 3D Simulator SimSpark that closely matches
-a Softbank Nao robot interface.
+a Aldebaran Nao robot interface.
 
 `RQt Image Overlay`_
 ********************
